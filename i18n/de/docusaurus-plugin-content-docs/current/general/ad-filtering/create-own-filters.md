@@ -567,7 +567,7 @@ This modifier defines a rule which applies only to addresses that match the case
 
 :::info Kompatibilität
 
-Rules with the `$match-case` are supported by AdGuard for iOS and Safari, **running SafariConverterLib v2.0.41 or later**.
+Rules with the `$match-case` are supported by AdGuard for iOS and Safari, **running SafariConverterLib v2.0.43 or later**.
 
 All other products already support this modifier.
 
@@ -977,7 +977,7 @@ $stealth [= opt1 [| opt2 [| opt3 [...]]]]
 The list of the available modifier options:
 
 - `searchqueries` disables [**Hide your search queries**](../../stealth-mode#searchqueries) option
-- `donottrack` disables [**Send Do-Not-Track header**](../../stealth-mode#donottrack) option
+- `donottrack` disables [**Ask websites not to track you**](../../stealth-mode#donottrack) option
 - `3p-cookie` disables [**Self-destructing third-party cookies**](../../stealth-mode#3p-cookie) option
 - `1p-cookie` disables [**Self-destructing first-party cookies**](../../stealth-mode#1p-cookie) option
 - `3p-cache` disables [**Disable cache for third-party requests**](../../stealth-mode#3p-cache) option

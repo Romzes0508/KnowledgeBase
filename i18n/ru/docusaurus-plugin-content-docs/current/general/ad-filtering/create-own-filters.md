@@ -567,7 +567,7 @@ h_value = string / regexp
 
 :::info Совместимость
 
-Правила с `$match-case` поддерживаются AdGuard для iOS и Safari **с SafariConverterLib 2.0.41 или более поздней версии**.
+Rules with the `$match-case` are supported by AdGuard for iOS and Safari, **running SafariConverterLib v2.0.43 or later**.
 
 Все остальные продукты уже поддерживают этот модификатор.
 
@@ -977,7 +977,7 @@ $stealth [= opt1 [| opt2 [| opt3 [...]]]]
 Список доступных опций модификатора:
 
 - `searchqueries` отключает опцию [**Скрыть поисковые запросы**](../../stealth-mode#searchqueries)
-- `donottrack` отключает опцию [**Отправить заголовок Do-Not-Track**](../../stealth-mode#donottrack)
+- `donottrack` disables [**Ask websites not to track you**](../../stealth-mode#donottrack) option
 - `3p-cookie` отключает [**Самоуничтожение сторонних файлов cookies**](../../stealth-mode#3p-cookie)
 - `1p-cookie` отключает [**Самоуничтожение основных файлов cookies**](../../stealth-mode#1p-cookie)
 - `3p-cache` отключает опцию [**Отключить кеш-память для сторонних запросов**](../../stealth-mode#3p-cache)

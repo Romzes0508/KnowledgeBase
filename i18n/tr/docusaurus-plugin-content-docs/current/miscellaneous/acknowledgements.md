@@ -11,8 +11,8 @@ Bu, AdGuard yazılım geliştirme sürecinde bize gerçekten yardımcı olan kü
 
 ## Windows için AdGuard {#win}
 
-- SQLLite database engine: [sqlite.org](https://sqlite.org)
-- ADO.NET provider for SQLite: [system.data.sqlite.org/index.html/doc/trunk/www/index.wiki](https://system.data.sqlite.org/index.html/doc/trunk/www/index.wiki)
+- SQLLite veri tabanı motoru: [sqlite.org](https://sqlite.org)
+- SQLite için ADO.NET sağlayıcısı: [system.data.sqlite.org/index.html/doc/trunk/www/index.wiki](https://system.data.sqlite.org/index.html/doc/trunk/www/index.wiki)
 - Json.NET — high-performance JSON framework for .NET: [www.newtonsoft.com/json](https://www.newtonsoft.com/json)
 - AvalonEdit — WPF-based text editor component: [avalonedit.net](https://avalonedit.net)
 
